@@ -1,0 +1,19 @@
+{
+  "name": "lyric-analyzer",
+  "version": "1.0.0",
+  "description": "Scrapes genius to analyze artist song lyrics",
+  "main": "testing.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tflaglor1/lyric-analyzer.git"
+  },
+  "author": "Thomas Flaglor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tflaglor1/lyric-analyzer/issues"
+  },
+  "homepage": "https://github.com/tflaglor1/lyric-analyzer#readme"
+}
