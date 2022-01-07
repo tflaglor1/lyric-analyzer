@@ -3,3 +3,6 @@ app-env
 node_modules
 package-lock.json
 .vscode/
+music-brainz-db/
+.src/getMusic.js
+testing.js
