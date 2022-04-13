@@ -15,5 +15,17 @@
   "bugs": {
     "url": "https://github.com/tflaglor1/lyric-analyzer/issues"
   },
-  "homepage": "https://github.com/tflaglor1/lyric-analyzer#readme"
+  "homepage": "https://github.com/tflaglor1/lyric-analyzer#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.3",
+    "musicbrainz-api": "^0.6.0",
+    "node-fetch": "^3.1.0",
+    "pg": "^8.7.3",
+    "qs": "^6.10.2",
+    "request": "^2.88.2",
+    "spotify-web-api-node": "^5.0.2",
+    "xml2js": "^0.4.23"
+  }
 }
